@@ -1,6 +1,6 @@
 # Distributed Key Generation for the Paillier Cryptosystem
 
-This repository contains the code for the distributed key generation protocol for the Paillier cryptosystem developed by TNO.
+This repository contains the code for the distributed key generation protocol for the Paillier cryptosystem developed by TNO within the [Shared Research Program Cyber Security](https://www.tno.nl/en/collaboration/partners-of-tno/shared-research-program-srp-cyber-security/).
 
 
 ## Current Status
